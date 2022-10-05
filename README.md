@@ -50,7 +50,8 @@ Git/GitHub and Webstrom Tutorial:
     Copy the Github.io URL into a browser
     Post the URL into Moodle with your Github account URL
 
-Words and defination make the words bold by using + **BOLD**
+Terms and Definition:
+
 + **Branch** A branch represents an independent line of development. Branches serve as an abstraction for the edit/stage/commit process. You can think of them as a way to request a brand new working directory, staging area, and project history.
 + **Clone** A clone is a copy of a repository or the action of copying a repository. When cloning a repository into another branch, the new branch becomes a remote-tracking branch that can talk upstream to its origin branch
 + **Commit** A commit, or "revision", is an individual change to a file (or set of files). When you make a commit to save your work, Git creates a unique ID (a.k.a. the "SHA" or "hash") that allows you to keep record of the specific changes committed along with who made them and when. Commits usually contain a commit message which is a brief description of what changes were made.
